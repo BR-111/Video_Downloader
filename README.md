@@ -1,5 +1,5 @@
 # Video_Downloader
-A little YouTube videos downloader.
+A little YouTube videos downloader. Works on Windows and Linux devices.
 
 ### Requirements:
 <p> -Pytube. </p>
